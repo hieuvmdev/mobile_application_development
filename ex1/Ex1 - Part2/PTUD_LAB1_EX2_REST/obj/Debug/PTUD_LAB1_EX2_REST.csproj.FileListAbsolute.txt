@@ -1,0 +1,17 @@
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\PTUD_LAB1_EX2_REST.dll.config
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\PTUD_LAB1_EX2_REST.dll
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\PTUD_LAB1_EX2_REST.pdb
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\Newtonsoft.Json.dll
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\System.Net.Http.Formatting.dll
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\System.Web.Http.dll
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\System.Web.Http.WebHost.dll
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\Newtonsoft.Json.xml
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\System.Net.Http.Formatting.xml
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\System.Web.Http.xml
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\bin\System.Web.Http.WebHost.xml
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\obj\Debug\PTUD_LAB1_EX2_REST.csprojResolveAssemblyReference.cache
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\obj\Debug\PTUD_LAB1_EX2_REST.csproj.CoreCompileInputs.cache
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\obj\Debug\PTUD_LAB1_EX2_REST.dll
+C:\Users\Vu Minh Hieu\source\repos\PTUD_LAB1_EX2_REST\PTUD_LAB1_EX2_REST\obj\Debug\PTUD_LAB1_EX2_REST.pdb
